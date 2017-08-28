@@ -16,7 +16,6 @@ def create3Matrix():
             li.append(random.randint(1,1000))
         matrix.append(li)
     return matrix
-            
 
 def main():
     matrix = create3Matrix()
